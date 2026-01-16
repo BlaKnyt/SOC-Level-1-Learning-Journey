@@ -1,6 +1,6 @@
 # Intro to SOC – TryHackMe
 
-**Date:** 2026-01-XX  
+**Date:** 2026-01-16  
 **Time Spent:** 30 minutes  
 **Platform:** TryHackMe  
 **Path:** SOC Level 1  
