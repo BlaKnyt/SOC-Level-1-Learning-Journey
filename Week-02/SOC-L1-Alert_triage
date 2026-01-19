@@ -1,0 +1,40 @@
+# SOC L1 Alert Triage – SOC Level 1
+
+**Date:** 2026-01-19  
+**Time Spent:** 60 minutes  
+**Platform:** TryHackMe  
+**Path:** SOC Level 1  
+
+---
+
+## What I Studied
+- Events and alerts
+- Alert Properties and Prioritisation
+- Alert Triage
+
+---
+
+## Key Concepts I Learned
+-The concept of SOC alert
+-Alert fields, statuses, and classification
+-How to perform alert triage as an L1 analyst
+
+---
+
+## What I Can Explain in My Own Words
+Alert Management platforms are used to track any incoming alerts and are used to deal with said alerts eg. Splunk and Elastic
+The role of an L1 analyst is to review alerts, distinguish between legitimate and malicious ones, and notify L2 analysts in the event of a real threat.
+Examples of alert properties are the severity, alert and event time, the name of the alert, status and assignee.
+Alert prioritisation involves filtering the alerts from those that are assigned, sort by severity and the alert time
+
+---
+
+
+## Next Steps
+- Practice alert triage on TryHackMe labs
+- Learn how to use Splunk better
+
+---
+
+## Evidence
+- TryHackMe SOC Level 1 progress updated
