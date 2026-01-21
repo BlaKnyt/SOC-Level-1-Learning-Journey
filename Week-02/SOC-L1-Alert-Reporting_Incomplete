@@ -1,0 +1,19 @@
+## Time Spent
+120 minutes focused on study and practical review of SOC reporting
+
+## Progress
+- Completed 75% of “SOC L1 Alert Reporting” section
+- Reviewed SOC Alert Funnel, Reporting Guide and Escalation procedures used in a Tier 1 environment
+
+## Key Concepts Learned
+- The structure of an alert report using the 5Ws (Who, What, When, Where, Why)
+- Standard escalation workflows followed by a SOC team
+- How to determine the appropriate escalation point based on alert severity
+- How alerts are documented and communicated using a SIEM platform such as Splunk
+
+## Application
+Applied alert reporting concepts by analysing example authentication-related alerts and mapping observed activity to the 5Ws reporting framework. Practised identifying when activity should be escalated based on behaviour, context, and potential risk.
+
+## Next Steps
+- Finish remaining activity, SOC Communication
+- Practise writing a full alert report using the 5Ws framework based on a simulated SIEM alert
