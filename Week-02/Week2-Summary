@@ -1,0 +1,27 @@
+## Time Spent
+Approximately 2–3 hours across multiple study sessions
+
+## Progress
+- Focused on alert triaging and reporting within the SOC Level 1 learning path
+- Reviewed how alerts are assessed, prioritised, and documented by a Tier 1 SOC analyst
+- Practised analysing alert information before determining next actions
+
+## Key Concepts Learned
+- The purpose of alert triaging in a SOC environment
+- How analysts determine alert priority based on severity, context, and potential impact
+- How to structure alert reports using the 5Ws (Who, What, When, Where, Why)
+- The importance of clarity and consistency when documenting alerts
+
+## Application
+Applied triaging concepts by reviewing example alerts and identifying key details required for investigation. Practised breaking down alerts
+into the 5Ws to ensure reports clearly communicate what occurred, where it occurred, and why it was flagged. Focused on documenting findings
+in a way that supports effective escalation and handover.
+
+## Challenges
+- Developing confidence in deciding whether an alert requires escalation or additional investigation
+- Ensuring reports include sufficient context without making assumptions
+
+## Next Steps
+- Continue progressing through the SOC Level 1 learning path
+- Practise writing full alert reports using TryHackMe labs
+- Build consistency in applying the triage process across different alert types
