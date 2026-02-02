@@ -1,0 +1,24 @@
+## Time Spent
+90 minutes focused on study and practical review of Security Log: User Management & Sysmon: Process Monitoring
+
+## Progress
+- Completed two additional tasks out of a total of eight (currently 5/8)
+- User management and process monitoring on Windows
+
+## Key Concepts Learned
+- Different log event IDs related to user management
+- Structure of user management events (subject, object and details of an event)
+- Hunting for backdoored users using the event viewer
+- What is Sysmon and the basic usage of Sysmon
+- Process creation event code in Sysmon vs Security Log
+- The process of hunting for Backdoored users
+
+## Application
+I applied the analysis of a SYSmon event log and Security log in the virtual machine on TryHackMe where I had to analyse
+saved logs to search for a possible backdoored user with the event ID 4720//4732 and I analysed a process launch with the
+event ID 1. The aim of the exercise was to learn how to analyse logs and search for any suspicious activity logged by the
+event log and Sysmon.
+
+## Next Steps
+- Finish the remaining three tasks
+- Find more virtual machines to practice
